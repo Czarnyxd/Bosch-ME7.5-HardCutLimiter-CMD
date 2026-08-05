@@ -30,6 +30,24 @@ The application automatically detects the required HardCut calibration data, all
 
 ---
 
+# 🚧 Work in Progress
+
+Support for additional Bosch VAG ECUs is currently under development.
+
+Planned and currently implemented detection includes:
+
+- ✅ BOSCH VAG ME3.8.3
+- ✅ BOSCH VAG ME7.1 2.7T V6
+- ✅ BOSCH VAG ME7.1 4.2 V8
+- ✅ BOSCH VAG ME7.1.1 1.8T 20V
+- ✅ BOSCH VAG ME7.1.1 3.2 VR6 / R32
+- ✅ BOSCH VAG MED9.1 2.0 TFSI
+- ✅ BOSCH VAG MED9.1 RS3
+
+Future releases will gradually add full HardCut support for these ECU families.
+
+---
+
 # 🚀 Usage
 
 Run the application from the command line:
