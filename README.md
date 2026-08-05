@@ -35,7 +35,7 @@ The application automatically detects the required HardCut calibration data, all
 Run the application from the command line:
 
 ```bash
-HardCut_ME75_CMD.exe
+HardCut_ME75_CMD.exe your_file.bin
 ```
 
 or
